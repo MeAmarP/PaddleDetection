@@ -1,1 +1,1 @@
-python deploy/pipeline/pipeline.py --config /home/mighty/Documents/workspace/PaddleDetection/deploy/pipeline/config/infer_cfg_pphuman_smoker.yml --video_file=/home/mighty/Videos/datasample/3805742-sd_640_338_25fps.mp4 --device=gpu
+python deploy/pipeline/pipeline.py --config workspace/PaddleDetection/deploy/pipeline/config/infer_cfg_pphuman_smoker.yml --video_file=Videos/datasample/3805742-sd_640_338_25fps.mp4 --device=gpu
